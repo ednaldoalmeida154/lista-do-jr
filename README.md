@@ -1,6 +1,4 @@
-# lista-do-jr
-
-Lista de teste
+#EXTM3U 
 
  #EXTINF:-1 tvg-id="Globo" tvg-name="Globo " tvg-logo="https://futeboltotal.org/wp-content/uploads/2021/09/globo-768x512.webp" group-title="Canais abertos",Globo 
 http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/422.ts'victorallm.ts
